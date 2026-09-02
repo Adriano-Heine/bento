@@ -1,0 +1,6 @@
+{
+  "name": "Reprodutor de Vídeo em Tela Cheia",
+  "description": "Aplicação simples e limpa para reprodução de vídeo em tela cheia e loop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
